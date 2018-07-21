@@ -19,11 +19,17 @@ So this trend got us curious if we can analyze and compare how two different ind
 **Hypothesis** We tested the following Hypotheses:
 
 **A.1** Hypothesis for Ribo's messages: Conversations with ex-girlfriends vary from conversations with friends
+
 **A.2** Hypothesis for Aash's messages: Conversations with high-school freinds vary from conversations with university friends
+
 **B.1** Most active months of the year should be around one's Birthday month
+
 **B.2** Reasons for reduced usage of Facebook could be mom joining Facebook or switching to other social media platforms such as Instagram/Snapchat
+
 **C.1** We are more likely to "comment" on photos over both other comments and videos
+
 **D.1** We "comment" and "like" more on weekends
+
 **E.1** Even with their diverse backgrounds, Ribo and Aash should have some common advertisers
 
 
