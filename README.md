@@ -10,13 +10,13 @@ So this trend got us curious if we can analyze and compare how two different ind
 
 **The steps involved in execution of this project include:**
 
-**Data extraction:** In the Facebook settings for your account — right below the link to deactivate it — there’s an option to download a copy of all your Facebook data. All those years of browsing the News Feed, and sharing selfies, engagements and birthday wishes on Facebook have taught the company quite a lot about us. We, the users, are part of the reason that Facebook has become so good at targeting ads. Here's the link to download all your data: https://www.facebook.com/settings. You have the option to download the data in HTML or JSON format. We chose to download our data in JSON as we can easily parse it using Pandas in Python.
+**1. Data extraction:** In the Facebook settings for your account — right below the link to deactivate it — there’s an option to download a copy of all your Facebook data. All those years of browsing the News Feed, and sharing selfies, engagements and birthday wishes on Facebook have taught the company quite a lot about us. We, the users, are part of the reason that Facebook has become so good at targeting ads. Here's the link to download all your data: https://www.facebook.com/settings. You have the option to download the data in HTML or JSON format. We chose to download our data in JSON as we can easily parse it using Pandas in Python.
 
-**Data:** The downloaded zip folder has different folders containing different kinds of information about our Facebook activities such as Ads, Comments, Likes and reactions, messages, search history, friends etcetra
+**2. Data:** The downloaded zip folder has different folders containing different kinds of information about our Facebook activities such as Ads, Comments, Likes and reactions, messages, search history, friends etcetra
 
-**Data cleaning** As mentioned, we downloaded our data in JSON and the cleaning process involved preparing the data for analysis by parsing it from JSON format to dataframes
+**3. Data cleaning** As mentioned, we downloaded our data in JSON and the cleaning process involved preparing the data for analysis by parsing it from JSON format to dataframes
 
-**Hypothesis** We tested the following Hypotheses:
+**4. Hypothesis** We tested the following Hypotheses:
 
 **A.1** Hypothesis for Ribo's messages: Conversations with ex-girlfriends vary from conversations with friends
 
@@ -32,8 +32,7 @@ So this trend got us curious if we can analyze and compare how two different ind
 
 **E.1** Even with their diverse backgrounds, Ribo and Aash should have some common advertisers
 
-
-**Testing:** To test the above Hyptheses we visualized the following:
+**5. Testing:** To test the above Hyptheses we visualized the following:
 
 **A.** Comparative word visualizations of messages
 
