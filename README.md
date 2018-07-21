@@ -6,7 +6,7 @@ So this trend got us curious if we can analyze and compare how two different ind
 
 **1. Ribo :** A 23-year old 
 
-**2. Aashka:** A 24-year old aspiring data scientist who is an Economics graduate from Mumbai,India currently pursuing MS in Information Systems from Santa Clara University
+**2. Aash:** A 24-year old aspiring data scientist who is an Economics graduate from Mumbai,India currently pursuing MS in Information Systems from Santa Clara University
 
 **The steps involved in execution of this project include:**
 
@@ -16,14 +16,25 @@ So this trend got us curious if we can analyze and compare how two different ind
 
 **Data cleaning** As mentioned, we downloaded our data in JSON and the cleaning process involved preparing the data for analysis by parsing it from JSON format to dataframes
 
-**Analysis:** We chose to analyse and visualize the following:
+**Hypothesis** We tested the following Hypotheses:
 
-A. Comparative word visualizations of messages
+**A.1** Hypothesis for Ribo's messages: Conversations with ex-girlfriends vary from conversations with friends
+**A.2** Hypothesis for Aash's messages: Conversations with high-school freinds vary from conversations with university friends
+**B.1** Most active months of the year should be around one's Birthday month
+**B.2** Reasons for reduced usage of Facebook could be mom joining Facebook or switching to other social media platforms such as Instagram/Snapchat
+**C.1** We are more likely to "comment" on photos over both other comments and videos
+**D.1** We "comment" and "like" more on weekends
+**E.1** Even with their diverse backgrounds, Ribo and Aash should have some common advertisers
 
-B. Visualizing and comparing most active months and years on Facebook by analyzing comments activity
 
-C. We can comment on photos, videos, posts or reply to others comments. We were curious to find out if we are more likely to comment on photos, videos, posts or reply to others comments. So the third visualization is an area chart of Ribo and Aashka's comments acitivity over time
+**Testing:** To test the above Hyptheses we visualized the following:
 
-D. Heat Map representing the most active time and day of the week on Facebook, in terms of likes and comments for Aashka and Ribo
+**A.** Comparative word visualizations of messages
 
-E. The data also has a list of advertisers who have added our information to their list. Given our distinct backgrounds, we were curious to see if we have any common advertisers and so we visualized the same with a venn diagram wordcloud
+**B.** Visualizing and comparing most active months and years on Facebook by analyzing comments activity
+
+**C.** We can comment on photos, videos, posts or reply to others comments. We were curious to find out if we are more likely to comment on photos, videos, posts or reply to others comments. So the third visualization is an area chart of Ribo and Aash comments acitivity over time
+
+**D.** Heat Map representing the most active time and day of the week on Facebook, in terms of likes and comments for Aash and Ribo
+
+**E.** The data also has a list of advertisers who have added our information to their list. Given our distinct backgrounds, we were curious to see if we have any common advertisers and so we visualized the same with a venn diagram wordcloud
