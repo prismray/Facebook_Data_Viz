@@ -6,7 +6,7 @@ This project has plotly charts, so the entire notebook with interactive visualiz
 
 ## **This project has used data extracted from the profiles of :**
 
-**1. Ribo :** A 23-year old 
+**1. Ribo :** A 23-year old full-time Supply Chain Management & Analytics graduate student and program manager at Santa Clara University aspiring to work in the mountain bike industry. :) 
 
 **2. Aash:** A 24-year old aspiring data scientist who is an Economics graduate from Mumbai,India currently pursuing MS in Information Systems from Santa Clara University
 
