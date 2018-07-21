@@ -16,10 +16,10 @@ In the Facebook settings for your account — right below the link to deactivate
 ### **2. Data:** 
 The downloaded zip folder has different folders containing different kinds of information about our Facebook activities such as Ads, Comments, Likes and reactions, messages, search history, friends etcetra
 
-###**3. Data cleaning** 
+### **3. Data cleaning** 
 As mentioned, we downloaded our data in JSON and the cleaning process involved preparing the data for analysis by parsing it from JSON format to dataframes
 
-###**4. Hypothesis** 
+### **4. Hypothesis** 
 We tested the following Hypotheses:
 
 **A.1** Hypothesis for Ribo's messages: Conversations with ex-girlfriends vary from conversations with friends
@@ -36,7 +36,7 @@ We tested the following Hypotheses:
 
 **E.1** Even with their diverse backgrounds, Ribo and Aash should have some common advertisers
 
-###**5. Testing:** 
+### **5. Testing:** 
 To test the above Hyptheses we visualized the following:
 
 **A.** Comparative word visualizations of messages
