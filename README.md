@@ -54,3 +54,4 @@ To test the above Hyptheses we visualized the following:
 ![](Images/D.1.1_HeatMap_Facebook_Comments_Ribo.png)
 
 **E.** The data also has a list of advertisers who have added our information to their list. Given our distinct backgrounds, we were curious to see if we have any common advertisers and so we visualized the same with a venn diagram wordcloud
+![](Images/E.1_Common_Advertisers_VennWordcloud.png)
