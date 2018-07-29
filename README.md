@@ -2,11 +2,9 @@
 As of the first quarter of 2018, Facebook had 2.19 billion monthly active users!!
 So this trend got us curious if we can analyze and compare how two different individuals use Facebook. We extracted data from our own Facebook profiles and analyzed the same to find some interesting insights.
 
-This project has plotly charts, so the entire notebook with interactive visualizations can be viewed here: http://nbviewer.jupyter.org/github/prismray/Facebook_Data_Viz/blob/master/Facebook_Analysis_Ribo_Aash.ipynb
-
 ## **This project has used data extracted from the profiles of :**
 
-**1. Ribo :** A 23-year old full-time Supply Chain Management & Analytics graduate student and program manager at Santa Clara University aspiring to work in the mountain bike industry. :) 
+**1. Ribo :** A 23-year old full-time Supply Chain Management & Analytics graduate student and program manager at Santa Clara University aspiring to work in the mountain bike industry. :)
 
 **2. Aash:** A 24-year old aspiring data scientist who is an Economics graduate from Mumbai,India currently pursuing MS in Information Systems from Santa Clara University
 
@@ -24,19 +22,21 @@ As mentioned, we downloaded our data in JSON and the cleaning process involved p
 ### **4. Hypothesis** 
 We tested the following Hypotheses:
 
-**A.1** Hypothesis for Ribo's messages: Conversations with ex-girlfriends vary from conversations with friends
+**A.1** Hypothesis for Ribo's messages: Conversations with ex-girlfriends will vary greatly in terms of word choice and sentiment
 
-**A.2** Hypothesis for Aash's messages: Conversations with high-school freinds vary from conversations with university friends
+**A.2** Hypothesis for Ribo's messages: Conversations with his friend are more likely to contain expletives and action words compared to messages with ex-girlfriends
 
-**B.1** Most active months of the year should be around one's Birthday month
+**A.3** Hypothesis for Aash's messages: Conversations with high-school friends vary from conversations with university friends
 
-**B.2** Reasons for reduced usage of Facebook could be mom joining Facebook or switching to other social media platforms such as Instagram/Snapchat
+**B.1** There will be a spike in commenting activity during one's birthday.
 
-**C.1** We are more likely to "comment" on photos over both other comments and videos
+**B.2** There will be a reduction in Facebook usage either after parents joined or after introduction of competing social media platforms
 
-**D.1** We "comment" and "like" more on weekends
+**C.1** Both Aash and Ribo are more likely to "comment" on photos versus replies to comments and videos
 
-**E.1** Even with their diverse backgrounds, Ribo and Aash should have some common advertisers
+**D.1** Both Aash and Ribo are morelikely to "comment" and "like" on the weeken ds or after 5pm.
+
+**E.1** Although Aash and Ribo are from different contires with diverse backgrounds, they will still have some common advertisers.
 
 ### **5. Testing:** 
 To test the above Hyptheses we visualized the following:
@@ -45,7 +45,7 @@ To test the above Hyptheses we visualized the following:
 
 **B.** Visualizing and comparing most active months and years on Facebook by analyzing comments activity
 
-**C.** We can comment on photos, videos, posts or reply to others comments. We were curious to find out if we are more likely to comment on photos, videos, posts or reply to others comments. So the third visualization is an area chart of Ribo and Aash comments acitivity over time
+**C.** We can comment on photos, videos, posts or reply to others comments. We were curious to find out if we are more likely to comment on photos, videos, posts or reply to others comments. So the third visualization is an area chart of Ribo and Aash comments activity over time.
 
 **D.** Heat Map representing the most active time and day of the week on Facebook, in terms of likes and comments for Aash and Ribo
 
