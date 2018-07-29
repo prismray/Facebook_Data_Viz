@@ -48,5 +48,6 @@ To test the above Hyptheses we visualized the following:
 **C.** We can comment on photos, videos, posts or reply to others comments. We were curious to find out if we are more likely to comment on photos, videos, posts or reply to others comments. So the third visualization is an area chart of Ribo and Aash comments activity over time.
 
 **D.** Heat Map representing the most active time and day of the week on Facebook, in terms of likes and comments for Aash and Ribo
+![](Images/D.1.1_HeatMap_Facebook_Comments_Ribo.png)
 
 **E.** The data also has a list of advertisers who have added our information to their list. Given our distinct backgrounds, we were curious to see if we have any common advertisers and so we visualized the same with a venn diagram wordcloud
