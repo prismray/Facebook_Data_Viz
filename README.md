@@ -44,6 +44,8 @@ To test the above Hyptheses we visualized the following:
 **A.** Comparative word visualizations of messages
 
 **B.** Visualizing and comparing most active months and years on Facebook by analyzing comments activity
+![](Images/B.1_Facebook_activity_over_years.png)
+![](Images/B.2_Facebook_activity_over_months.png)
 
 **C.** We can comment on photos, videos, posts or reply to others comments. We were curious to find out if we are more likely to comment on photos, videos, posts or reply to others comments. So the third visualization is an area chart of Ribo and Aash comments activity over time.
 
