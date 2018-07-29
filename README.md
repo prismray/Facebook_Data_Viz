@@ -2,7 +2,7 @@
 As of the first quarter of 2018, Facebook had 2.19 billion monthly active users!!
 So this trend got us curious if we can analyze and compare how two different individuals use Facebook. We extracted data from our own Facebook profiles and analyzed the same to find some interesting insights.
 
-#### This project has interactive plotly graphs which are not visible on Github. To view the notebook with interactive graphs, go to the link: http://nbviewer.jupyter.org/github/prismray/Facebook_Data_Viz/blob/master/Facebook_Analysis_Ribo_Aash.ipynb
+#### This project has interactive plotly graphs which are not visible on Github. To view the notebook with interactive graphs, check out the link: http://nbviewer.jupyter.org/github/prismray/Facebook_Data_Viz/blob/master/Facebook_Analysis_Ribo_Aash.ipynb
 
 ## **This project has used data extracted from the profiles of :**
 
