@@ -42,7 +42,8 @@ We tested the following Hypotheses:
 
 **E.1** Although Aash and Ribo are from different countires with diverse backgrounds, they will still have some common advertisers.
 
-### **5. Testing:** 
+### **5. Testing:** (We have only added images for B, D and E to give an indicative view of our project. For all the visualizations and code, refer the nbviewer link: http://nbviewer.jupyter.org/github/prismray/Facebook_Data_Viz/blob/master/Facebook_Analysis_Ribo_Aash.ipynb) 
+
 To test the above Hyptheses we visualized the following:
 
 **A.** Comparative word visualizations of messages
@@ -58,6 +59,7 @@ To test the above Hyptheses we visualized the following:
 **Insights:** Hypothesis B.2 is true for Ribo as his activity significantly dropped after his mom joined Facebook but it's not too true for Aash as her activity has only significantly dropped in the 2012-2013 period when she was close to graduation and probably busy with studies. Ribo's activity also dropped when he switched to other social media platforms like Instagram and Snapchat but Aash is not too active on other social media platforms and her activity remained unaffected by emergence of other platforms
 
 **C.** We can comment on photos, videos, posts or reply to others comments. We were curious to find out if we are more likely to comment on photos, videos, posts or reply to others comments. So the third visualization is an area chart of Ribo and Aash comments activity over time.
+
 **Insights:**
 * It can be inferred from the graph above that Hypotheses C.1 does not hold true for Aash as while her comments on Photos are higher than replies to other comments which are higher than comments on videos generally but comments on Posts are the highest for her especially in her Birthday month (Feb)
 * It can be inferred from the graphs above that Hypotheses C.1 does not hold true for Ribo also as while his comments on Photos are higher than replies to other comments which are higher than comments on videos but it can also be seen that comments on Posts are higher than everything else generally
