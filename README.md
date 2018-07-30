@@ -63,8 +63,8 @@ To test the above Hypotheses we visualized the following:
 **C.** We can comment on photos, videos, posts or reply to others comments. We were curious to find out if we are more likely to comment on photos, videos, posts or reply to others comments. So the third visualization is an area chart of Ribo and Aash comments activity over time.
 
 **Insights:**
-* It can be inferred from the graph above that Hypotheses C.1 does not hold true for Aash as while her comments on Photos are higher than replies to other comments which are higher than comments on videos generally but comments on Posts are the highest for her especially in her Birthday month (Feb)
-* It can be inferred from the graphs above that Hypotheses C.1 does not hold true for Ribo also as while his comments on Photos are higher than replies to other comments which are higher than comments on videos but it can also be seen that comments on Posts are higher than everything else generally
+* It can be inferred that Hypotheses C.1 does not hold true for Aash as while her comments on Photos are higher than replies to other comments which are higher than comments on videos generally but comments on Posts are the highest for her especially in her Birthday month (Feb)
+* It can be inferred that Hypotheses C.1 does not hold true for Ribo also as while his comments on Photos are higher than replies to other comments which are higher than comments on videos but it can also be seen that comments on Posts are higher than everything else generally
 
 **D.** Heat Map representing the most active time and day of the week on Facebook, in terms of likes and comments for Aash and Ribo
 
