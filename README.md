@@ -42,9 +42,10 @@ We tested the following Hypotheses:
 
 **E.1** Although Aash and Ribo are from different countires with diverse backgrounds, they will still have some common advertisers.
 
-### **5. Testing:** (We have only added images for B, D and E to give an indicative view of our project. For all the visualizations and code, refer the nbviewer link: http://nbviewer.jupyter.org/github/prismray/Facebook_Data_Viz/blob/master/Facebook_Analysis_Ribo_Aash.ipynb) 
+### **5. Testing:** 
+(We have only added images for B, D and E to give an indicative view of our project. For all the visualizations and code, refer the nbviewer link: http://nbviewer.jupyter.org/github/prismray/Facebook_Data_Viz/blob/master/Facebook_Analysis_Ribo_Aash.ipynb) 
 
-To test the above Hyptheses we visualized the following:
+To test the above Hypotheses we visualized the following:
 
 **A.** Comparative word visualizations of messages
 **Insights:** 
