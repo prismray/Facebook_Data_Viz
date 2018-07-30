@@ -48,6 +48,7 @@ We tested the following Hypotheses:
 To test the above Hypotheses we visualized the following:
 
 **A.** Comparative word visualizations of messages
+
 **Insights:** 
 * It can be inferred that Hypothesis A.1 and A.2 is correct as Ribo generally has the same conversations across all his ex-girlfriends. However, his conversations with his friend are a little more exciting because they contain expletive words, banter and indicate conversations around social activity with words like "go", "party", "drunk", "drink" etcetra
 * It can be inferred that Hypothesis A.3 is correct as with Aash's High-School friend a lot of Hindi profane slangs and expletives can be observed as it is characteristic of the dialect spoken in Northern India, which is where she went to boarding school. Also it is interesting that most of her Facebook messages are from after she graduated high school and were exchanged when she was away from her high-school friends and so a lot of the words like 'missed' could be occuring often as they we reminiscing. Meanwhile her University friend lived really close to where she lived and so most conversations would revolve around plans and about the present which explains high occurence of the words 'now', 'go','get','time','today','got'
